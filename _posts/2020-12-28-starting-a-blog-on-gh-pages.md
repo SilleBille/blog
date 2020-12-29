@@ -80,9 +80,9 @@ Now that you have your domain's DNS setup, you have 2 options:
 1. Use the root domain to host your blog (Example: <https://your-domain.com>)
 2. Create a sub-domain to host your blog (Example: <https://blog.your-domain.com>)
 
-### Use Root Domain To Server Your Blog
+### Use Root Domain To Serve Your Blog
 
-Head to your Github repository click on **Settings → Github Pages → Custom Domain** and enter your domain.
+Head to your Github repository, click on **Settings → Github Pages → Custom Domain** and enter your domain.
 
 ![Desktop View](/assets/img/post/2020-12-28-starting-a-blog-on-gh-pages/03-custom-root-domain.png)
 
@@ -90,7 +90,7 @@ This creates and commits a `CNAME` file, with your domain name as content, in th
 
 Your website should now be served via <https://your-domain.com>
 
-### Use Sub-Domain To Server Your Blog
+### Use Sub-Domain To Serve Your Blog
 
 Head to your domain registrar and go to your domain's DNS settings. Add a new `CNAME` record that maps your `your-sub-domain.your-domain.com` to `your-gh-username.github.io`
 
