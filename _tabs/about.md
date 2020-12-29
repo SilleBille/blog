@@ -2,13 +2,16 @@
 title: About
 icon: fas fa-info
 order: 4
-
-# The About page
-# v2.0
-# https://github.com/cotes2020/jekyll-theme-chirpy
-# © 2017-2019 Cotes Chung
-# MIT License
 ---
 
+This blog is owned and maintained by SilleBille, aka Dinesh Prasanth M K. To learn more about the owner, there is a dedicated website available: <https://dineshprasanth.me>
 
-> **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page.
+## Purpose
+
+This is a personal blog and mostly hosts contents that SilleBille himself learnt or experimented through his daytime job or during his free time.
+
+This blog will be targeted towards developers, computer-hobbyists, customers and customer support folks.
+
+## License
+
+This blog is published under the [MIT License](https://github.com/SilleBille/blog/blob/master/LICENSE)
